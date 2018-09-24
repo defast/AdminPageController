@@ -1,0 +1,1 @@
+Страница админ-контроллера. AdminPageController.
